@@ -20,5 +20,5 @@ Hi, I’m Bjarne, a German Software Developer.
 - AVEVA (Previous Wonderware) - System Platform
 
 ## Stats
-<a href="https://github.com/basicx-StrgV"><img src="https://github-readme-stats.vercel.app/api?username=basicx-StrgV&theme=blueberry&show_icons=true" alt="Stats" height="190" /></a>
+<a href="https://github.com/basicx-StrgV"><img src="https://github-readme-stats.vercel.app/api?username=basicx-StrgV&theme=blueberry&show_icons=true&hide_rank=true" alt="Stats" height="190" /></a>
 <a href="https://github.com/basicx-StrgV"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basicx-StrgV&theme=blueberry&layout=compact" alt="Top Langs" height="190" /></a>
