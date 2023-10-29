@@ -9,15 +9,20 @@
 Hi, I’m Bjarne, a German Software Developer.
 
 ## Credentials
-- **State-certified technician for information and communication technology** (Staatlich geprüfter informationstechnischer Assistent)
-- **Computer Science Expert Subject Area: Software Development** (Fachinformatiker Fachrichtung: Anwendungsentwicklung)
 
+| English | Deutsch |
+| :--- | :--- |
+| State-certified technician for information and communication technology | Staatlich geprüfter informationstechnischer Assistent |
+| Computer Science Expert Subject Area: Software Development | Fachinformatiker Fachrichtung: Anwendungsentwicklung |
 
 ## Technologies I worked with
 [![Stuff I worked with](https://skillicons.dev/icons?i=cs,dotnet,visualstudio,java,eclipse,html,css,js,ts,vue,vscode,mysql,github,gitlab,git)]([https://skillicons.dev](https://github.com/basicx-StrgV))
 
 **Additionally:**
-- AVEVA (Previous Wonderware) - System Platform
+- AVEVA - System Platform
+  - ArchestrA
+  - InTouch
+  - OMI
 
 ## Stats
 <a href="https://github.com/basicx-StrgV"><img src="https://github-readme-stats.vercel.app/api?username=basicx-StrgV&theme=blueberry&show_icons=true&hide_rank=true" alt="Stats" height="190" /></a>
