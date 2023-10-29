@@ -19,6 +19,7 @@ Hi, I’m Bjarne, a German Software Developer.
 [![Stuff I worked with](https://skillicons.dev/icons?i=cs,dotnet,visualstudio,java,eclipse,html,css,js,ts,vue,vscode,mysql,github,gitlab,git)]([https://skillicons.dev](https://github.com/basicx-StrgV))
 
 **Additionally:**
+- Microsoft SQL Server
 - AVEVA - System Platform
   - ArchestrA
   - InTouch
