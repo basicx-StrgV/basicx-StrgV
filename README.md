@@ -8,6 +8,10 @@
 
 Hi, I’m Bjarne, a German Software Developer.
 
+I speak:
+- German
+- English
+
 ## Credentials
 
 | English | Deutsch |
