@@ -21,4 +21,4 @@ size = 11
 style = { shape = "Underline", blinking = "Never"}
 
 [terminal]
-shell = { program = "pwsh", args = ["-NoLogo"] }
+shell = { program = "pwsh", args = ["-NoLogo", "-NoExit", "-Command \"& {fastfetch}\""] }
